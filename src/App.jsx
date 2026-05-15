@@ -185,7 +185,7 @@ const copy = {
         year: '2024',
         summary:
           'Sistema de passe eletrônico com RFID e ESP32 para substituir passes de ônibus em papel, com validação offline e recargas por aplicativo.',
-        stack: ['Django', 'Python', 'SQLite', 'JavaScript', 'React', 'ESP32', 'RFID'],
+        stack: ['RFID', 'ESP32', 'C', 'Kodular'],
       },
     ],
     skillGroups: [
@@ -308,7 +308,7 @@ const copy = {
         year: '2024',
         summary:
           'Electronic bus pass system using RFID and ESP32, replacing paper passes with offline validation and mobile app recharges.',
-        stack: ['Django', 'Python', 'SQLite', 'JavaScript', 'React', 'ESP32', 'RFID'],
+        stack: ['RFID', 'ESP32', 'C', 'Kodular'],
       },
     ],
     skillGroups: [
